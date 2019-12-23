@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,123
+http://androidmanija.lt/amtv.m3u
 #EXTINF:-1,BTV
 http://46.251.40.201:9981/stream/channelid/396412266?ticket=220586525BFCB587D0C4955C78CBF3A5560CE0C5&profile=pass
 #EXTINF:-1,CurrentTime
