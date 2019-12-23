@@ -1,742 +1,375 @@
-#EXTM3U
-#EXTINF:-1,123
-http://androidmanija.lt/amtv.m3u
-#EXTINF:-1,BTV
-http://46.251.40.201:9981/stream/channelid/396412266?ticket=220586525BFCB587D0C4955C78CBF3A5560CE0C5&profile=pass
-#EXTINF:-1,CurrentTime
-http://46.251.40.201:9981/stream/channelid/1430979122?ticket=17DEDFE13E0267B187764E497A59350F91E27609&profile=pass
-#EXTINF:-1,Info TV
-http://46.251.40.201:9981/stream/channelid/1155436241?ticket=3C0EA3D42BF80566FF28138B2EDB41F1B1884F9F&profile=pass
-#EXTINF:-1,Lietuvos rytas TV
-http://46.251.40.201:9981/stream/channelid/416153836?ticket=800CE0203B27618A300CCE6CB269AE7EEEDC2C81&profile=pass
-#EXTINF:-1,LIUKS!
-http://46.251.40.201:9981/stream/channelid/2043877080?ticket=0DEA6B914CFC5E831D5AD708A632B1422A092975&profile=pass
-#EXTINF:-1,LNK
-http://46.251.40.201:9981/stream/channelid/1531500561?ticket=79F6B23EA23DD0839D5D20027ECD77CA5D0B211A&profile=pass
-#EXTINF:-1,TV1
-http://46.251.40.201:9981/stream/channelid/1940862706?ticket=FC6EC1532506B17312335380C1A7432DF471190A&profile=pass
-#EXTINF:-1,TV3
-http://46.251.40.201:9981/stream/channelid/1629244251?ticket=91206EFDA5F7174FDCD4870392FB56E925B5F0AD&profile=pass
-#EXTINF:-1,TV6
-http://46.251.40.201:9981/stream/channelid/1598563117?ticket=3FA0C9EAA52F5843EE2FFC0FA538CBD73B3E874A&profile=pass
-#EXTINF:-1,TV8
-http://46.251.40.201:9981/stream/channelid/524024391?ticket=D22E5AB46802765D3A623522AF6F416DE9B953F0&profile=pass
-#EXTINF:-1,TV3
-udp://@239.2.4.12:1234
-#EXTINF:-1,LNK
-udp://@233.136.41.172:1234
-#EXTINF:-1,=== Обновлён: 17.12.2019 ===
-https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
-#EXTINF:-1,=== Обсуждение: smarttvnews.ru ===
-https://smarttvnews.ru/wp-content/uploads/2018/11/BT-2016-logo_color7890.png
-#EXTINF:-1,Discovery Channel
-http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://109.248.236.41:4433/udp/238.1.1.124:1234
-#EXTINF:-1,Discovery Channel
-http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/37688
-#EXTINF:-1,National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1,National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,National Geographic HD
-http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:0,Nat Geo Wild
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:-1,Nat Geo Wild HD
-http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Investigation Discovery
-http://46.32.68.167/s/live/403/816951136/819088191919/0.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/38260
-#EXTINF:-1,HDL
-http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/37702
-#EXTINF:-1,DTX
-http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,DTX
-http://46.32.68.167/s/live/410/816951136/819088191919/0.m3u8
-#EXTINF:-1,Animal Planet
-http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Animal Planet HD
-http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
-#EXTINF:-1,TLC
-http://46.32.68.167/s/live/806/816951136/819088191919/0.m3u8
-#EXTINF:-1,TLC
-http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/38261
-#EXTINF:-1,Outdoor HD
-http://188.113.190.12/170/video.m3u8
-#EXTINF:-1,Galaxy
-http://178.124.183.5/hls/CH_GALAXY/variant.m3u8?version=2
-#EXTINF:-1,History
-http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
-#EXTINF:-1,В Мире Животных HD
-http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/animalfamilyhd/chunklist.m3u8
-#EXTINF:0,Oхотник и Рыболов HD
-http://178.124.183.5/hls/4FDNBEDGFV/variant.m3u8?version=2
-#EXTINF:0,Охота и Рыбалка
-http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2
-#EXTINF:0,Кухня ТВ
-http://178.124.183.5/hls/EPX2UEHLPK/variant.m3u8?version=2
-#EXTINF:0,Оружие
-http://178.124.183.5/hls/EWEXU8FWAZ/variant.m3u8?version=2
-#EXTINF:-1,Russian Extreme Ultra HD
-http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
-#EXTINF:-1,Russian Extreme Ultra QHD
-http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSQHD.m3u8
-#EXTINF:-1,Russian Extreme Ultra UHD
-http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
-#EXTINF:-1,LOVE NATURE
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,LOVE NATURE 4K HD
-http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSHD.m3u8
-#EXTINF:-1,LOVE NATURE 4K QHD
-http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSQHD.m3u8
-#EXTINF:-1,LOVE NATURE 4K UHD
-http://dmitry-tv.ru/his/itv_zabava/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1,Eureka HD
-http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/eurekahd/chunklist.m3u8
-#EXTINF:-1,Fine Living
-http://ott-cdn.ucom.am/s51/index.m3u8
-#EXTINF:-1,Travel Channel HD
-http://46.32.68.167/s/live/925/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1,Эврика
-http://ott-cdn.ucom.am/s44/index.m3u8
-#EXTINF:-1,Viasat History
-http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
-#EXTINF:-1,Viasat Explorer
-http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8
-#EXTINF:-1,Viasat Nature
-http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
-#EXTINF:-1,Viasat Explorer HD
-http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
-#EXTINF:-1,Viasat History HD
-http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
-#EXTINF:-1,Приключения
-http://ott-cdn.ucom.am/s99/index.m3u8
-#EXTINF:-1,Неизвестная планета
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1,Наука 2.0
-http://ott-cdn.ucom.am/s98/index.m3u8
-#EXTINF:-1,Техно 24
-http://ott-cdn.ucom.am/s68/index.m3u8
-#EXTINF:0,Моя Планета
-http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Ocean TV
-http://91.192.168.242:9091
-#EXTINF:-1,Ocean TV HD
-http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
-#EXTINF:-1,Телепутешествия
-http://ott-cdn.ucom.am/s71/index.m3u8
-#EXTINF:-1,Naroddip
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1,Красная линия ТВ
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,История
-http://182.73.122.74:10005/bysid/405
-#EXTINF:-1,История
-http://ott-cdn.ucom.am/s40/index.m3u8
-#EXTINF:-1,Здоровье
-http://ott-cdn.ucom.am/s90/index.m3u8
-#EXTINF:-1,Зоо ТВ
-http://ott-cdn.ucom.am/s92/index.m3u8
-#EXTINF:0,Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:0,Russian Travel Guide
-http://ott-cdn.ucom.am/s80/01.m3u8
-#EXTINF:-1,Доктор
-http://ott-cdn.ucom.am/s76/index.m3u8
-#EXTINF:-1,Наш Дом HD
-http://85.234.33.60/stream/c11.m3u8
-#EXTINF:-1,Загородный
-http://ott-cdn.ucom.am/s31/index.m3u8
-#EXTINF:-1,RTG
-http://ott-cdn.ucom.am/s80/index.m3u8
-#EXTINF:-1,RTG HD
-http://ott-cdn.ucom.am/s63/index.m3u8
-#EXTINF:0,Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,РЖД ТВ HD
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:0,ЕДА ПРЕМИУМ HD
-http://178.124.183.5/hls/BCPKKUK5NT/variant.m3u8?version=2
-#EXTINF:-1,Food Network
-http://ott-cdn.ucom.am/s18/index.m3u8
-#EXTINF:-1,Renome
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1,Охотник и Рыболов
-http://ott-cdn.ucom.am/s55/index.m3u8
-#EXTINF:-1,Охотник и рыболов HD
-http://ott-cdn.ucom.am/s62/index.m3u8
-#EXTINF:-1,Gamechanel
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/152506.m3u8
-#EXTINF:0,Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:0,ID Fashion HD
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-#EXTINF:0,HD Fashion &amp; Lifestyle UA
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0,World Fashion Channel Россия HD
-http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
-#EXTINF:-1,Ultra HD Cinema HD
-http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSHD.m3u8
-#EXTINF:-1,Ultra HD Cinema QHD
-http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSQHD.m3u8
-#EXTINF:-1,Ultra HD Cinema UHD
-http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSUHD.m3u8
-#EXTINF:-1,Ultra HD cinema
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-#EXTINF:-1,Ultra HD Cinema FulHD
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,Ultra HD Cinema
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1,ULTO
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Шокирующее HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
-#EXTINF:-1,Комедийное HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1,Кинопремиум HD
-http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952
-#EXTINF:-1,Остросюжетное HD
-http://188.35.9.11:2015
-#EXTINF:-1,Marvel ТВ
-http://v3.myowntv.org/content/35525/index.m3u8
-#EXTINF:-1,ViP Comedy
-http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
-#EXTINF:-1,ViP Megahit
-http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
-#EXTINF:-1,ViP Premiere
-http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
-#EXTINF:-1,ViP Megahit HD
-http://188.35.9.11:2016
-#EXTINF:-1,ViP Premiere HD
-http://188.35.9.15:2013
-#EXTINF:-1,TV1000
-http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
-#EXTINF:-1,TV1000 Action
-http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
-#EXTINF:-1,TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1,TV1000
-http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
-#EXTINF:-1,TV1000 Action
-http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
-#EXTINF:-1,TV1000 Русское кино
-http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
-#EXTINF:-1,3 film
-http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
-#EXTINF:-1,Paramount Comedy
-http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Hollywood
-http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
-#EXTINF:-1,FILM TV
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1,BOLT
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
-#EXTINF:-1,FOX
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:-1,FOX Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
-#EXTINF:-1,Sony Channel HD
-http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
-#EXTINF:-1,Sony Sci-Fi
-http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
-#EXTINF:-1,Sony Sci-Fi 
-http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
-#EXTINF:-1,Epic Drama
-http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,Epic Drama
-http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1,STAR CINEMA
-http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
-#EXTINF:-1,STAR FAMILY
-http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
-#EXTINF:-1,Красная линия 
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,Победа 
-http://ott-cdn.ucom.am/s47/04.m3u8
-#EXTINF:-1,Русский иллюзион 
-http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
-#EXTINF:-1,312 Кино HD
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1,Кино UHD
-http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1,Кино ТВ
-http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
-#EXTINF:-1,Дом кино
-http://46.32.68.167/s/live/207/86.169.51.136/0/0.m3u8
-#EXTINF:-1,НСТ
-http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
-#EXTINF:-1,Еврокино
-http://178.124.183.5/hls/JEDUS3FS7V/variant.m3u8?version=2
-#EXTINF:-1,Киномикс
-http://178.124.183.5/hls/VVG76MWUGX/variant.m3u8?version=2
-#EXTINF:-1,Кинопремьера HD
-http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
-#EXTINF:-1,Киносемья
-http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
-#EXTINF:-1,Киносерия
-http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
-#EXTINF:-1,Кинохит
-http://178.124.183.5/hls/HDOHSSZQCP/variant.m3u8?version=2
-#EXTINF:-1,Мужское кино
-http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
-#EXTINF:-1,Наше Новое Кино
-http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
-#EXTINF:-1,Наше любимое кино
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
-#EXTINF:-1,Наше новое кино
-http://178.124.183.5/hls/UVPWPN2KTN/variant.m3u8?version=2
-#EXTINF:-1,Наше любимое кино
-http://178.124.183.5/hls/CH_NASHEKINO/variant.m3u8?version=2
-#EXTINF:-1,Индийское кино
-http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
-#EXTINF:-1,Родное кино
-http://86.57.225.245:7015/play/a00j
-#EXTINF:-1,Русский Бестселер
-http://182.73.122.74:10005/bysid/420
-#EXTINF:-1,Русский детектив
-http://182.73.122.74:10005/bysid/416
-#EXTINF:-1,Русский роман
-http://182.73.122.74:10005/bysid/415
-#EXTINF:-1,Дорама
-http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:-1,НСТ
-http://ott-cdn.ucom.am/s87/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
-#EXTINF:-1,Amedia Premium
-http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:-1,A HBO
-http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:-1,Amedia 1
-http://ott-cdn.ucom.am/s45/index.m3u8
-#EXTINF:-1,Amedia 2
-http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:-1,FAN HD
-http://217.25.216.4:8085/udp/238.2.29.234:1234
-#EXTINF:0,КиноЗаказ 1
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:0,КиноЗаказ 2
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал 1 (Марс-ТВ) 
-https://autopilot.catcast.me/content/37033/index.m3u8
-#EXTINF:-1,Кинозал 2 (pznstreams) 
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1,Кинозал 3 (ULTO) 
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1,Кинозал 4 (The movie channel) 
-https://hls.goodgame.ru/hls/106103.m3u8
-#EXTINF:-1,Кинозал 5 (STR TV) 
-https://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1,Кинозал 6 (akudji) 
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1,Кинозал 7 (Evgen СССР) 
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:-1,Кинозал 8 (Evgen Ужасы) 
-https://v2.catcast.me/content/36277/index.m3u8
-#EXTINF:-1,Кинозал 9 (Карате ТВ) 
-https://v2.catcast.me/content/37316/index.m3u8
-#EXTINF:-1,Кинозал 10 (Неформат)
-https://hls.goodgame.ru/hls/64556_480.m3u8
-#EXTINF:-1,Кинозал 11 (Film TV)
-http://195.9.195.3:8080/hls/165462.m3u8
-#EXTINF:-1,TOP 80
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//277.m3u8
-#EXTINF:-1,TOP BUDO
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//428.m3u8
-#EXTINF:-1,TOP Cinema HD
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//1611.m3u8
-#EXTINF:-1,TOP USSR
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//6641.m3u8
-#EXTINF:-1,TOP Великолепнный Век
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//6.m3u8
-#EXTINF:-1,TOP VOSTOK
-http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//489.m3u8
-#EXTINF:-1,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1,U!Premium ATV
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:0,Armenia Comedy ATV
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0,Cineman ATV 
-http://ott-cdn.ucom.am/s66/04.m3u8 
-#EXTINF:0,Filmzone ATV 
-http://ott-cdn.ucom.am/s48/04.m3u8 
-#EXTINF:0,Kinoman ATV 
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1,Haykino ATV
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1,НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://195.162.90.141:8080/228ae58f824e7668c245ecb1e5c1c850
-#EXTINF:-1,Eurosport 2
-http://195.162.90.141:8080/440f706cdc90fc2a7b78e72a6d318ad9
-#EXTINF:-1,Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,Eurosport4K HD
-http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSHD.m3u8
-#EXTINF:-1,Eurosport4K QHD
-http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSQHD.m3u8
-#EXTINF:-1,Eurosport4K UHD
-http://dmitry-tv.ru/his/itv_zabava/CH_EUROSPORT4K_HLSUHD.m3u8
-#EXTINF:-1,OLYMPIC CHANNEL HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1,Setanta Sports 1
-http://178.124.183.12/hls/FWHTTL8YXU/variant.m3u8
-#EXTINF:-1,Setanta Sports 2
-http://178.124.183.12/hls/5T3FNFICQ4/variant.m3u8
-#EXTINF:-1,Setanta Sports HD
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
-#EXTINF:-1,Setanta Sports+ HD
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:-1,AD Sports 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD Sports 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Viasat Sport HD
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV hls
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8fe6e8.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK hls
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="http://res.lt/wp-content/uploads/2017/08/lrt-300x169.jpg",LRT hls
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura" tvg-logo="http://res.lt/wp-content/uploads/2015/11/LRT_PLIUS_sviesiame-fone-300x300.png",LRT Plius hls
+http://88.216.8.122:8080/lrt_kultura/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1.png",TV1 hls
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24e09d.acelive&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 hls
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6 hls
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8 hls
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tvplay-sports" tvg-logo="http://i1.tiesraides.lv/1200x0s/pictures/2018-08-10/2018-08-10_sports_full_color.jpg",TVPlay Sports hls
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia-hit" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/hbo_grey_195.jpg",A Home Of HBO
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c9cabb.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia-premium" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/hbo-2-en-vivo-205x205.png",A Home Of HBO 2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_de66c9.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="amedia1" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/70071_logo_amedia_1_1.png",Amedia 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ee54c6.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="cinema-ru" tvg-logo="https://iptvx.one/icn/cinema.png",Cinema
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4c3b6a.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="paramount-channel" tvg-logo="https://www.geekoo.it/wp-content/uploads/2016/03/canale-27-streaming.jpg",Paramount Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d92f4d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="paramount-comedy" tvg-logo="https://pbs.twimg.com/profile_images/469810571454320641/f0lhUSCD_400x400.jpeg",Paramount Comedy Россия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_eb423b.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tvxxi" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv-xxi.png",TV XXI
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8b7038.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-action" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-action.png",TV1000 Action
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7f50df.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-action" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-action.png",TV1000 Action
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_450bdd.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-russkoe-kino" tvg-logo="https://kredit-onlajn.site/pics/e9548bb977c92ea816c2b19662b4ee61.png",TV1000 Русское кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_487cf4.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000.png",TV1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1aca6f.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000.png",TV1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_623e9d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="tv1000-premium" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1000-premium-1.png",TV1000 Premium HD hls
+http://212.12.194.10/tv1000prem/live.m3u8
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_73a907.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-comedy" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-vip-comedy.png",ViP Comedy HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0001ba.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-megahit" tvg-logo="http://www.frocus.net/images/logotv/original/vip-megahit.jpg",ViP Megahit HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8cd830.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-premiere" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vip_premiere_195.jpg",ViP Premiere HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_68f82e.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="vip-premiere" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vip_premiere_195.jpg",ViP Premiere HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=844466e115fe5dc0a9dfe5abc59ab14ccf1dd547&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 group-title="Filmai" tvg-id="domkino" tvg-logo="http://i.otzovik.com/objects/b/630000/620840.png",Дом кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cf195d.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="domkino-premium" tvg-logo="https://iptvx.one/icn/dom-kino-premium.png",Дом Кино Премиум HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d9ca27.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kino-tv" tvg-logo="https://s3.vcdn.biz/static/f/1382983311/image.jpg/pt/r300x423",Кино ТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbd839.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinomiks" tvg-logo="http://newsrbk.ru/images/channels/1392.png",Киномикс
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14840c.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinopokaz" tvg-logo="https://dantser.ru/wp-content/uploads/2018/05/Kinopokaz-2x-1.png",Кинопоказ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f41eed.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinopokaz-hd1" tvg-logo="http://www.oreol.tv/template/img2/logo_kino1.png",Кинопоказ HD1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c94e1.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinosvidanie" tvg-logo="https://www.red-media.ru/wp-content/uploads/2016/08/KINOSVIDANIE-3.png",Киносвидание
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3484cd.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinosemiya" tvg-logo="https://www.red-media.ru/wp-content/uploads/2016/08/KINOSVIDANIE-3.png",Киносемья
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_616e49.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="kinoxit" tvg-logo="http://xittv.net/img/can/116.png",Кинохит
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c6c693.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="muzhskoe-kino" tvg-logo="http://xittv.net/img/can/100.png",Мужское кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_03ceff.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nash-detektiv" tvg-logo="http://xittv.net/img/can/83.png",Наш Детектив HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ff66cf.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nash-kinoroman" tvg-logo="http://xittv.net/img/can/84.png",Наш Кинороман HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a0aab.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="nashe-lubimoe" tvg-logo="http://xittv.net/img/can/113.png",Наше новое кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e0c81.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://www.cableman.ru/sites/default/files/ostrosyuzhetnoe_0.png",Остросюжетное HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ce89.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="rodnoe-kino" tvg-logo="http://xittv.net/img/can/91.png",Родное кино
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_25204b.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russkaya-komedia" tvg-logo="https://satsis.info/uploads/posts/2015-10/1446134142_www.satsis.info__komediya.jpg",Русская комедия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_be2f8a.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-bestseller" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/80.png",Русский бестселлер
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_515ad4.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-detektiv" tvg-logo="https://ct-itv01.svc.iptv.rt.ru/sdp/ct/nclogo1547077931444.png",Русский детектив
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_06b3ec.acelive&.mp4
+#EXTINF:-1 group-title="Filmai" tvg-id="russky-illuzion" tvg-logo="http://xn--j1adfnc.xn-----6kcabofibag8dqarfelguc4ag84a.xn--p1ai/logo/360.gif",Русский иллюзион
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0698e6.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2plus2" tvg-logo="https://mediananny.com/content/images_new/news/original/157492.jpg",2+2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9b3c9e.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2na2" tvg-logo="https://i1.sndcdn.com/avatars-000126685382-d6uc5t-t500x500.jpg",2х2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aa06c5.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="2na2" tvg-logo="https://i1.sndcdn.com/avatars-000126685382-d6uc5t-t500x500.jpg",2х2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_a4eef2.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="fox" tvg-logo="https://i.pinimg.com/originals/38/c2/7a/38c27a27bd90ada2df68bf0fc921e376.jpg",Fox
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_989654.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="foxlife" tvg-logo="https://dash.mediaupdate.co.za/story/image/142643/142643.jpg",Fox Life
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b7ccd3.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="sony-tv" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/11/Sony-Channel-210x225.jpg",Sony
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_910a3c.acelive&.mp4
+#EXTINF:-1 group-title="Serialai" tvg-id="vip-serial" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/vipserial_195.jpg",ViP Serial HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6900f5.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="bridge-hd" tvg-logo="https://bridgemedia.ru/slir/w720-h466-c720x466/s/uploads/tv_docs/bridgetv-1513259329.jpg",Bridge HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41505f.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="bridge-tv" tvg-logo="https://pbs.twimg.com/profile_images/545914867312373760/EYiqi-qY_400x400.jpeg",Bridge TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4a584f.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="europa-plus-tv" tvg-logo="http://s3.vefire.ru/l/250x150/ru/EuropaPlusTV.png",Europa Plus TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_38be4c.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="m1-ua" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/M1_%28Ukraine%29.jpg",M1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2727e0.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-dance" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png",MTV Dance
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_aba682.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/MTV_Rocks.svg/200px-MTV_Rocks.svg.png",MTV Rocks
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f53aa2.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="mtv-russia" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/10/MTV-Russia-300x225.png",MTV Russia
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_87d381.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="musicbox-ua-hd" tvg-logo="https://static.wirtualnemedia.pl/media/top/MusicBoxUA-655.png",Music Box UA
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d1ba62.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-european" tvg-logo="http://www.overtheairdigitaltv.com/wp-content/uploads/2015/07/vh1.png",VH1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7c0cb9.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="vh1-classic" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/032018/untitled-1_731.png",VH1 Classic
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_04ca63.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="muzyka-pervogo" tvg-logo="http://www.onlineisrael.ru/images/MUZ_logo_color.jpg",Музыка Первого
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0f7fbd.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="nostalgia" tvg-logo="http://s.glaz.tv/images/logos/tv/big/nostalgiya.jpg",Ностальгия
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6209d1.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="shanson-tv" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон-TB
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bb3790.acelive&.mp4
+#EXTINF:-1 group-title="Muzikiniai" tvg-id="shanson-tv" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон-TB
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c81615.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="texno-24" tvg-logo="http://sintez66.com/TVLogos/BulsatColor/24_techno.png",Техно 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8ce3be.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="365-dnej" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/archive/e/e6/20090904141342%21365days.jpg",365 Дней
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_952b4d.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="animal-planet" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-animal-planet-hd-spot.png",Animal Planet HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_007df4.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="https://pbs.twimg.com/profile_images/894385274200784896/4zKTfLUO_400x400.jpg",Discovery Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_14a6de.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="https://pbs.twimg.com/profile_images/894385274200784896/4zKTfLUO_400x400.jpg",Discovery Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c3981a.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="http://content.osn.com/bob/745x419/DSC.jpg",Discovery Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_af3bb6.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-channel" tvg-logo="http://content.osn.com/bob/745x419/DSC.jpg",Discovery Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36e29.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="discovery-science" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-discovery-science-hd-spot.png",Discovery Science HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cbe522.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="dtx" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/09/dtx-640x347-640x347.jpg",DTX
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4a6b3.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="eureka-hd" tvg-logo="https://neplpadome.lv/lv/assets/images/Programmu%20logo/eu_eureka_HD.png",Eureka HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41ae49.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="fashion-tv" tvg-logo="http://www.goldnews.com.cy/assets/image/imagebig/fashion1.jpg",Fashion TV
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_090edf.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="fine-living" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-fine-living.png",Fine Living
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b4464e.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="hd-life" tvg-logo="https://cdn.red-media.ru/wp-content/themes/hdlife/images/logo.png",HD-Life
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_961623.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="history" tvg-logo="http://tvmegasite.net:8080/images/primetime/promo/discovery/axmen/historylogo.JPG",History
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ca97a4.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="national-geographic" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/national-geographic-channel-logo-featured.jpg",National Geographic
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b0915f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nat-geo-wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png",Nat Geo Wild HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d203c1.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="outdoor-channel" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2011/05/Outdoor-Channel.jpg",Outdoor Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dd1cf.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc" tvg-logo="https://www.novinite.com/media/images/2010-10/photo_verybig_120677.jpg",TLC
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d5467a.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="tlc" tvg-logo="https://www.novinite.com/media/images/2010-10/photo_verybig_120677.jpg",TLC
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6a9025.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="travel-adventure" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/Travel-Adventure-HD.jpg",Travel+Adventure HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47bc8f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="travel-channel" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.travel/icon/icon.png",Travel Channel HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3afbcb.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-explore" tvg-logo="https://s3.beetv.kz/rosing-beelinekz-production/097f1cc52d19f38b2092_256x256c.png",Viasat Explore
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ebb429.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-history" tvg-logo="http://tvzpravodaj.mnoho.info/userFiles/loga/n/viasath.jpg",Viasat History
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_c4767d.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="viasat-nature-history-hd" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/261.png",Viasat Nature/History HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1f9448.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="avto24" tvg-logo="http://satgold.net/sites/default/files/field/image/Avto24.png",Авто 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d36bfe.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="avto-plus" tvg-logo="http://www.vsetv.com/pic/news/9663_1.jpg",Авто Плюс
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_44473e.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="bobior" tvg-logo="http://xittv.net/img/can/103.png",Бобер
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_af4b54.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/v_mire_jivotnyh_195.jpg",В мире животных HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_91e992.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="https://tvpriz.ru/assets/images/articles/doktor.jpg",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_655506.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="https://tvpriz.ru/assets/images/articles/doktor.jpg",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_634ebe.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="doktor" tvg-logo="https://tvpriz.ru/assets/images/articles/doktor.jpg",Доктор
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7072ff.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="eda-hd" tvg-logo="https://www.cableman.ru/sites/default/files/logo_premium_0.jpg",Еда HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cd8c06.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zhivaya-planeta" tvg-logo="http://kovrovinter.net/wp-content/uploads/2018/05/live_planet.png",Живая Планета
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b79254.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zhivaya-priroda" tvg-logo="https://s3.vcdn.biz/static/f/1413611751/image.jpg",Живая природа HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_022812.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="zoo-tv" tvg-logo="http://viks.tv/uploads/posts/2018-12/1545165381_zoo_tv.png",Зоо ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_76eebd.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nauka" tvg-logo="https://volia.com/user/img/pr/2016/04/nauka.jpg",Наука
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53601c.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="nauka-20" tvg-logo="https://tvfeed.in/cache/f1/c5/f1c52e72ea1ae38abce76ab28d633073.jpg",Наука 2.0
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ab2dc9.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oruzhie" tvg-logo="http://xittv.net/img/can/20.png",Оружие
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_dd8b2c.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oxota-i-rybalka" tvg-logo="https://yt3.ggpht.com/-DhWhDVUU0NI/AAAAAAAAAAI/AAAAAAAAAAA/7U51pBFAbmo/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",Охота и рыбалка
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_761424.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/o_i_r_hd_195.jpg",Охотник и рыболов HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_98c67f.acelive&.mp4
+#EXTINF:-1 group-title="Pažintiniai" tvg-id="planeta-hd" tvg-logo="https://s5.vcdn.biz/static/f/709092221/image.jpg",Планета HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_49b7d4.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="eurosport1" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/559815_logo_eurosport_1.png",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_5c3299.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="eurosport-gold" tvg-logo="http://sat-world.net/uploads/posts/2017-10/1507354863_36821.jpg",Eurosport Gold
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_bcf53c.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="motorsporttv" tvg-logo="https://motorsport.tv/noimage.png",MotorSport
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_3116df.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="tvplay-sports-plus" tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/10/logo-tvplay-sports-plus-hd-spot.png",TVPlay Sports Plus HD hls
+http://88.216.48.147/flussonic/TVPlaySport__plius/video.m3u8
+#EXTINF:-1 group-title="Sportas" tvg-id="box-tv" tvg-logo="https://www.red-media.ru/wp-content/uploads/2018/12/Boks-TV.png",Бокс ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_71860b.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="kxl-hd" tvg-logo="https://satsis.info/uploads/posts/2012-11/1352017325_www.satsis.info_36_khl_hd_2_.jpg",КХЛ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8a42ad.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-arena" tvg-logo="http://www.oreol.tv/img/Arena_HD.jpg",Матч! Арена
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3290e3.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://sat-world.net/uploads/posts/2016-05/1464359167_14617.jpg",Матч! Боец
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ce6518.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://img.rnx.ru/logotvchannel/107.jpg",Матч! Футбол 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_5749f7.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://www.oreol.tv/img/Fut_2_HD.jpg",Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_b28a36.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://www.oreol.tv/img/Fut_2_HD.jpg",Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_ae0547.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://ufa-news.net/img/20170516/736d988a1ca30f70d286cadd4afeb361.jpg",Матч! Футбол 3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_3b9b54.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-boets" tvg-logo="http://ufa-news.net/img/20170516/736d988a1ca30f70d286cadd4afeb361.jpg",Матч! Футбол 3 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_41d8a4.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-igra" tvg-logo="http://www.oreol.tv/img/Igra_HD.jpg",Матч! Игра
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_71b505.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-igra" tvg-logo="http://www.oreol.tv/img/Igra_HD.jpg",Матч! Игра
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_7d37d2.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-nash-sport" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_642.png",Матч! Наш Спорт
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2569b1.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-tv" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/3.png",Матч ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c1460d.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="match-tv" tvg-logo="https://www.wifire.ru/uploads/tv_channels_seo/3.png",Матч ТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_fb9b11.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="setanta-sports-plus" tvg-logo="http://tuchkatvsport.com/uploads/posts/2016-09/1474027801_43setanta-plus.png",Сетанта Спорт+ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f2e3bd.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="football-ru" tvg-logo="https://liveam.tv/img/futbol.jpg",Футбол
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e48b61.acelive&.mp4
+#EXTINF:-1 group-title="Sportas" tvg-id="viasat-sport" tvg-logo="http://www.viasatworld.com/media/1070/sportlogo.png",Viasat Sport HD hls
 http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,Nicktoons
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,Nick JR
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
-#EXTINF:-1,Cartoon Network
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
-#EXTINF:0,Мультимания
-http://178.124.183.5/hls/FBYQ8KG5HM/variant.m3u8?version=2
-#EXTINF:0,Мульт
-http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
-#EXTINF:0,Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
-#EXTINF:0,2x2
-http://178.124.183.5/hls/EU9VTLDQCN/variant.m3u8?version=2
-#EXTINF:0,Gulli Girl
-http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
-#EXTINF:0,Tiji
-http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
-#EXTINF:-1,Disney канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Disney Channel
-http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Disney Junior
-http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,Disney Junior
-http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1,Disney XD
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
-#EXTINF:-1,Disney канал
-http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Малятко
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1,Tiji
-http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:-1,Рыжий
-http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1,Tuntunik
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1,СКАЗКИ ЗАЙКИ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:0,Мама 
-http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:0,Первый канал
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
-#EXTINF:0,Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-#EXTINF:0,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1,Первый Тульский
-http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
-#EXTINF:-1,Первый Ярославский
-http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
-#EXTINF:-1,Первый городской (Киров)
-http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
-#EXTINF:-1,Первый городской (Омск)
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
-#EXTINF:-1,Первый Канал
-http://79.135.71.195:7777
-#EXTINF:-1,Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Московский образовательный ТВ HD
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1,Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия 1
-http://79.135.71.195:7778
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия РТР
-http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Москва 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
-#EXTINF:0,Москва Доверие
-http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
-#EXTINF:-1,Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:0,ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
-#EXTINF:0,Мир 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
-#EXTINF:-1,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0,Мир 24 HD 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,НАШЕ ТВ
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1,360 HD
-http://360tv-cdn.facecast.io/360/channel2/1.m3u8
-#EXTINF:-1,360 Новости HD
-http://360tv-cdn.facecast.io/360/channel1/1.m3u8
-#EXTINF:-1,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,НТВ мир
-http://ott-cdn.ucom.am/s17/index.m3u8
-#EXTINF:-1,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Рен ТВ
-http://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
-#EXTINF:-1,Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Пятница HD
-https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
-#EXTINF:-1,СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,СТС Kids
-http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
-#EXTINF:-1,СТС Love
-http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
-#EXTINF:-1,СТС Love
-http://46.32.68.167/s/live/807/86.169.51.136/0/0.m3u8
-#EXTINF:0,Сарафан
-http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
-#EXTINF:-1,ТВ-3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Супер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Крик ТВ
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1,ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,ОТР
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF:-1,Парк Патриот HD
-http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8
-#EXTINF:-1,8 Канал
-http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1,Калейдоскоп ТВ 
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
-#EXTINF:-1,Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Известия ТВ FHD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Астрахань 24 HD
-http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Беларусь 2
-http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 4
-http://95.46.208.8:26258/belarus4
-#EXTINF:-1,Беларусь 4 Брест
-http://178.124.183.5/hls/CH_BELARUS4BR/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 4 Витебск
-http://178.124.183.5/hls/CH_BELARUS4VIT/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 4 Гомель
-http://178.124.183.5/hls/CH_BELARUS4GOM/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 4 Гродно
-http://178.124.183.5/hls/CH_BELARUS4GR/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 4 Могилев
-http://178.124.183.5/hls/CH_BELARUS4MOG/variant.m3u8?version=2
-#EXTINF:-1,Беларусь 24 HD
-https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
-#EXTINF:-1,НТВ Беларусь
-http://178.124.183.5/hls/DYJ5GH8HOK/variant.m3u8?version=2
-#EXTINF:-1,ОНТ
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1,ОНТ.BY
-http://stream.ont.by:1935/ont/live576p/playlist.m3u8
-#EXTINF:-1,1+1
-http://195.162.90.141:8080/69eb7dadf6604e79b88645a16172adda
-#EXTINF:-1,2+2
-http://195.162.90.141:8080/58298b0671711c68e61fd7bb37bf12ab
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_2/playlist.m3u8
-#EXTINF:-1,Мега
-http://188.35.9.5:10007/stolen/140r/parasite.install
-#EXTINF:-1,1 Крым
-http://31.40.128.20/hls/021_krim_1.m3u8
-#EXTINF:-1,К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:0,K2
-http://188.35.9.11:11072/d
-#EXTINF:-1,НТН
-http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
-#EXTINF:-1,Прямый
-http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1,Галичина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
-#EXTINF:-1,Киев ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1,Громадске
-http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
-#EXTINF:-1,Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1,4 канал
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
-#EXTINF:-1,КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1,Наш
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1,Eco TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1,РАИ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
-#EXTINF:-1,24 канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
-#EXTINF:-1,24 канал HD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1,Правда ТУТ
-http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Первый Деловой
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1,Bambarbia TV HD
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1,ВТВ-Плюс
-#EXTVLCOPT:network-caching=1000
-http://iptv.rubintele.com:8552/play/a007
-#EXTINF:0,Думская TV HD
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
-#EXTINF:-1,112 Украина HD
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,Russian MusicBox
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1,1HD Music
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:0,RU TV
-http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
-#EXTINF:-1,M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,NRJ Hits
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
-#EXTINF:-1,One.by
-http://rtmp.one.by:1200
-#EXTINF:-1,One.by 4K
-http://rtmp.one.by:1499
-#EXTINF:-1,One.by HD
-http://rtmp.one.by:1300
-#EXTINF:-1,One.by Россия
-http://rtmp.one.by:2200
-#EXTINF:-1,One.by Россия HD
-http://rtmp.one.by:2300
-#EXTINF:-1,BRiDGE TV
-http://46.32.68.167/s/live/110/86.169.51.136/0/0.m3u8
-#EXTINF:-1,Bridge TV
-#EXTVLCOPT:http-user-agent=smartlabs
-http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:0,Страна FM HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,Ля-минор ТВ
-http://178.124.183.5/hls/CH_LYAMINOR/variant.m3u8?version=2
-#EXTINF:0,М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:0,Муз ТВ
-http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1,MTV HITS
-http://182.73.122.74:10005/bysid/412
-#EXTINF:0,МУЗ ТВ
-http://dmitry-tv.ru/his/itv_zabava/CH_MUZTV.m3u8
-#EXTINF:0,Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,Kral HD
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1,Kral World HD
-http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
-#EXTINF:-1,KRATU
-http://iptv.rubintele.com:8552/play/a008
-#EXTINF:-1,BeBlack Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1,BeBlack Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1,BeBlack Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1,VIVA RUSSIA
-http://85.143.202.116/hls/viva.m3u8
-#EXTINF:-1,UTV MUSIC
-http://81.196.0.126/utvedge/utvlivehls/index.m3u8
-#EXTINF:-1,TVM Channel
-http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1,Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1,TRACE URBAN
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
-#EXTINF:-1,Steelbird Music
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1,Breaks 24 FM HD Trance
-#EXTVLCOPT:http-user-agent=smartlabs
-http://hls.goodgame.ru/hls/147367.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,Eurodance 90
-https://autopilot.catcast.me/content/36987/index.m3u8
-#EXTINF:0,Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1,Радио Шансон ТВ HD
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1,Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1,Retro Music Tv 
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1,Радио Хит ТВ
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="ani" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ani_195.jpg",Ani
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_6245c8.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="cartoon-network" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/50/49072/thumb/58afde11/1280px-Cartoon_Network_1992_logo-svg.png",Cartoon Network
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_873ea4.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="cartoon-network" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/50/49072/thumb/58afde11/1280px-Cartoon_Network_1992_logo-svg.png",Cartoon Network
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_082956.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="disney" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/disney_channel_0.png",Disney Channel
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b09f7d.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone" tvg-logo="https://straume.mstatic.lv/mlmt/images/straume_channel_logos/kidzone-tv-800x600.jpg",Kidzone hls
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone" tvg-logo="https://straume.mstatic.lv/mlmt/images/straume_channel_logos/kidzone-tv-800x600.jpg",Kidzone hls
+http://185.78.112.18:80/VIASAT_KIDZONE_TV/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="kidzone-plus" tvg-logo="https://iptvx.one/icn/kidzone-plus.png",Kidzone+ HD hls
+http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-ru" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_cdeaf9.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-hd" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1c19a1.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="pingvinukas" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-pingviniukas.png",Pingvinukas hls
+http://82.193.71.93:8080/LoLoLt/mono.m3u8
+#EXTINF:-1 group-title="Vaikams" tvg-id="tiji" tvg-logo="https://4.bp.blogspot.com/-yW46018PMF4/T1ImprMofGI/AAAAAAAAEbQ/nXQb9Tumg-M/s1600/Tji+logo+2012.jpg", TiJi
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_79db44.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="v-gostiax-u-skazki" tvg-logo="https://mediastil.ru/wp-content/uploads/2017/03/logo-vgs.png",В гостях у сказки
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_991665.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="karusel" tvg-logo="https://www.etanetas.lt/images/image/logo-karusel-tv.png",Карусель
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e3af9f.acelive&.mp4
+#EXTINF:-1 group-title="Vaikams" tvg-id="nickelodeon-hls" tvg-logo="http://res.lt/wp-content/uploads/2018/01/NICKELODEON_RGB-300x43.jpg",Nickelodeon hls
+http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1 group-title="Regioniniai" tvg-id="belarus1" tvg-logo="https://upload.wikimedia.org/wikipedia/be/thumb/3/35/Belarus_1.jpg/270px-Belarus_1.jpg",Беларусь 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_53a0b7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="mir" tvg-logo="https://kor.ill.in.ua/m/400x253/1586735.jpg",Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_57f0f3.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="mir" tvg-logo="https://kor.ill.in.ua/m/400x253/1586735.jpg",Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e557ba.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="moskva-24" tvg-logo="https://online-red.com/images/tv/moscow24.png",Москва-24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4de8b8.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/250px-NTV_logo_2003.svg.png",НТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d85e30.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/250px-NTV_logo_2003.svg.png",НТВ HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b90e5e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="ntv-mir" tvg-logo="https://img.tyt.by/320x0s/n/tv/logotipy/00/10/ntv-mir-logo.png",НТВ Мир
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_b98b98.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="pervy" tvg-logo="http://i.otzovik.com/objects/b/120000/110629.png",Первый канал
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_00e667.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="pervy" tvg-logo="http://i.otzovik.com/objects/b/120000/110629.png",Первый канал HD
+http://127.0.0.1:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng&_idx=0
+#EXTINF:-1 group-title="Regioniniai" tvg-id="piatnica" tvg-logo="https://satsis.info/uploads/posts/2018-05/1526199598_www.satsis.info__pyatnica.jpeg",Пятница
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f4733b.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="piatnica" tvg-logo="https://satsis.info/uploads/posts/2018-05/1526199598_www.satsis.info__pyatnica.jpeg",Пятница
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_404cf7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rentv" tvg-logo="https://kurgan.ru/media/post/12353/cover/e2d6dc3bb97dbb96b317b772eab172f3.jpg",Рен ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d09839.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rentv" tvg-logo="https://kurgan.ru/media/post/12353/cover/e2d6dc3bb97dbb96b317b772eab172f3.jpg",Рен ТВ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_df1bc5.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_80ca63.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0e43a6.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia1" tvg-logo="http://www.mitrey.ru/wp-content/uploads/2015/07/11245879_426734267507781_200177032_n.jpg",Россия 1 HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_618210.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia-24" tvg-logo="https://cdn.tvc.ru/pictures/o/112/074.jpg",Россия 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_f29779.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rossia-24" tvg-logo="https://cdn.tvc.ru/pictures/o/112/074.jpg",Россия 24
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_ee7edb.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="stb-ua" tvg-logo="http://vnews.agency/uploads/posts/2015-12/1449226739_stb.png",СТБ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_540c7e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts" tvg-logo="http://www.allenmedia.ru/images/logo-tv/by-url/logo-ctc.png",СТС
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_107e99.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_0a217f.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_baabf0.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="sts-love" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/ctc_love_195.jpg",СТС Love
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9bcf8d.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_47784d.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_11dee0.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-pl2" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ +2
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_1dda5a.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-pl3" tvg-logo="http://www.gazprom-media.com/images/Company/14/logo/card.jpg",ТНТ +3
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt-int-by" tvg-logo="https://tvnews.by/uploads/posts/2017-02/1485961566_tnt-int-bel.png",ТНТ-International (Беларусь)
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_29e147.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt4" tvg-logo="https://jourdom.ru/wp-content/uploads/2015/12/Screenshot_2-330x240.jpg",ТНТ4
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9767d7.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="tnt4" tvg-logo="https://jourdom.ru/wp-content/uploads/2015/12/Screenshot_2-330x240.jpg",ТНТ4
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_c6dd9e.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="zvezda" tvg-logo="http://www.oneaccountproducts.com/images/tv_logo_tv_zvezda.png",Звезда
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_2c3c73.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="bbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/300px-BBC_World_News_red.svg.png",BBC World News
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6e320c.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="bloomberg" tvg-logo="https://2m6dvv3zi6nj31h9a91s1wdk-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/bloomberg-logo.jpg",Bloomberg
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_13a6d6.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="deutsche-welle-de" tvg-logo="https://misionescuatro.com/wp-content/uploads/2015/08/dw.png",Deutsche Welle Deutsch
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_2a22eb.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="euronews" tvg-logo="https://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.png",EuroNews
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_9cf2dc.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rbk" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/05/RBC-TV1-640x316.jpg",РБК
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_d08286.acelive&.mp4
+#EXTINF:-1 group-title="Regioniniai" tvg-id="rbk" tvg-logo="https://www.livenewsnow.com/wp-content/uploads/2015/05/RBC-TV1-640x316.jpg",РБК
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_66ea29.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg",Russia Today
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_6f397c.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/RussiaToday-logo.jpg",Russia Today
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Falf_cid_426547.acelive&.mp4
+#EXTINF:-1 group-title="Informaciniai" tvg-id="russia-today-hd" tvg-logo="https://static.beeline.ru/upload/contents/338/logo/rthd_195.jpg",Russia Today HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4477e3.acelive&.mp4
