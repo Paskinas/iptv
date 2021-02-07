@@ -1,3 +1,36 @@
+#EXTINF:-1 group-title="Литва",LNK
+http://45.145.32.15:20004/lnk/video.m3u8
+#EXTINF:-1 group-title="Литва",TV3
+http://45.145.32.15:20004/tv3/video.m3u8
+#EXTINF:-1 group-title="Литва",LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
+#EXTINF:-1 group-title="Литва",LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
+#EXTINF:-1 group-title="Литва",TV1
+http://45.145.32.15:20004/tv1/video.m3u8
+#EXTINF:-1 group-title="Литва",TV8
+http://45.145.32.15:20004/tv8/video.m3u8
+#EXTINF:-1 group-title="Литва",TV6
+http://45.145.32.15:20004/tv6/video.m3u8
+#EXTINF:-1 group-title="Литва",BTV
+http://45.145.32.15:20004/btv/video.m3u8
+#EXTINF:-1 group-title="Литва",Lietuvos rytas TV
+http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
+#EXTINF:-1 group-title="Литва",Info TV
+http://45.145.32.15:20004/info_tv/video.m3u8
+#EXTINF:-1 group-title="Литва",Delfi TV
+http://45.145.32.15:20004/delfi_tv/video.m3u8
+#EXTINF:-1 group-title="Литва",2TV
+http://45.145.32.15:20004/2tv/video.m3u8
+#EXTINF:-1 group-title="Литва",Current Time
+http://45.145.32.15:20004/current_time/video.m3u8
+#EXTINF:-1 group-title="Литва",LRT
+http://45.145.32.15:20005/lrt_televizija/video.m3u8
+#EXTINF:-1 group-title="Литва",LRT Plius
+http://45.145.32.15:20005/lrt_plius/video.m3u8
+
+
+
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Кино",Аmedia 1
 http://194.156.166.2:8000/play/a01o
