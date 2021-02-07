@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Литва",LNK
 http://45.145.32.15:20004/lnk/video.m3u8
 #EXTINF:-1 group-title="Литва",TV3
@@ -28,10 +29,6 @@ http://45.145.32.15:20004/current_time/video.m3u8
 http://45.145.32.15:20005/lrt_televizija/video.m3u8
 #EXTINF:-1 group-title="Литва",LRT Plius
 http://45.145.32.15:20005/lrt_plius/video.m3u8
-
-
-
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 group-title="Кино",Аmedia 1
 http://194.156.166.2:8000/play/a01o
 #EXTINF:-1 group-title="Кино",TV1000 Action HD
